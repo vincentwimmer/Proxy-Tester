@@ -1,6 +1,6 @@
 # This is a rough script for checking proxies and taking it a step forward to ensure your proxy hasn't been detected.
 
-# On line 39 you can change your Proxy Type from 'socks5://' to whatever works for you.
+# On line 40 you can change your Proxy Type from 'socks5://' to whatever works for you.
 
 # Lastly, be sure to create 2 text files:
 # 'testproxies.txt' > Here you store your list of proxies in an IP:Port format seperated by new lines.
